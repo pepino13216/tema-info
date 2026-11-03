@@ -1,0 +1,9 @@
+TEST 5
+a)
+Aaa
+b)
+informatica
+formatica
+matica
+c)
+1

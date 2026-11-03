@@ -1,0 +1,7 @@
+TEST 9
+a)
+s devine ce, nu se afiseaza nimic
+b)
+11 bddghed
+c)
+11 bcdfghd
